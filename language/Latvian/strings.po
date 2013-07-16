@@ -307,7 +307,7 @@ msgstr "Jā"
 
 msgctxt "#108"
 msgid "Slideshow"
-msgstr "Slīdrāde"
+msgstr "Slaidrāde"
 
 msgctxt "#109"
 msgid "Create thumbs"
@@ -391,7 +391,7 @@ msgstr "Vispārīgi"
 
 msgctxt "#129"
 msgid "Slideshow"
-msgstr "Slīdrāde"
+msgstr "Slaidrāde"
 
 msgctxt "#130"
 msgid "System info"
@@ -1023,7 +1023,7 @@ msgstr "Vējš"
 
 msgctxt "#405"
 msgid "Dew point"
-msgstr "Kušanas temperatūra"
+msgstr "Temperatūra šobrīd"
 
 msgctxt "#406"
 msgid "Humidity"
