@@ -26,7 +26,7 @@ msgstr "Papildiespējas"
 
 msgctxt "#31004"
 msgid "Working..."
-msgstr "Working..."
+msgstr "Strādāju..."
 
 msgctxt "#31005"
 msgid "Hide Information"
