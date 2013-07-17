@@ -307,7 +307,7 @@ msgstr "Jā"
 
 msgctxt "#108"
 msgid "Slideshow"
-msgstr "Slīdrāde"
+msgstr "Slaidrāde"
 
 msgctxt "#109"
 msgid "Create thumbs"
@@ -387,11 +387,11 @@ msgstr "Objekti"
 
 msgctxt "#128"
 msgid "General"
-msgstr "Vispārīgi"
+msgstr "Galvenā"
 
 msgctxt "#129"
 msgid "Slideshow"
-msgstr "Slīdrāde"
+msgstr "Slaidrāde"
 
 msgctxt "#130"
 msgid "System info"
@@ -523,7 +523,7 @@ msgstr "Nav pieejams"
 
 msgctxt "#162"
 msgid "Tray open"
-msgstr "Atvilkne vaļā"
+msgstr "Diskdzinis vaļā"
 
 msgctxt "#163"
 msgid "Reading"
@@ -539,7 +539,7 @@ msgstr "Disks pieejams"
 
 msgctxt "#166"
 msgid "Skin"
-msgstr "Āda"
+msgstr "Izskats"
 
 msgctxt "#169"
 msgid "Resolution"
@@ -1023,7 +1023,7 @@ msgstr "Vējš"
 
 msgctxt "#405"
 msgid "Dew point"
-msgstr "Kušanas temperatūra"
+msgstr "Temperatūra šobrīd"
 
 msgctxt "#406"
 msgid "Humidity"
@@ -1223,7 +1223,7 @@ msgstr "Lirika"
 
 msgctxt "#24027"
 msgid "Weather"
-msgstr "Laika apstākļi"
+msgstr "Sinoptika"
 
 msgctxt "#33063"
 msgid "Options"
