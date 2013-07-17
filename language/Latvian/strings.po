@@ -1011,7 +1011,7 @@ msgstr "Temperatūra"
 
 msgctxt "#402"
 msgid "Feels like"
-msgstr "Liekas kā"
+msgstr "Temperatūra šobrīd"
 
 msgctxt "#403"
 msgid "UV index"
@@ -1023,7 +1023,7 @@ msgstr "Vējš"
 
 msgctxt "#405"
 msgid "Dew point"
-msgstr "Kušanas temperatūra"
+msgstr "Zemākā temperatūra"
 
 msgctxt "#406"
 msgid "Humidity"
